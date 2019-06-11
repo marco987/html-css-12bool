@@ -7,11 +7,11 @@
 
 /* Caratteristiche riga generali */
 
-.fw12 {
+.container {
   max-width: 1200px;
 }
 
-.fw12::after {
+.container::after {
   content: "";
   display: table;
   clear: both;
@@ -24,6 +24,12 @@
 [class*="col-offset-"] {
   float: left;
 }
+
+
+/* Caratteristiche riga50% generali */
+
+
+
 
 /* Regole delle colonne */
 

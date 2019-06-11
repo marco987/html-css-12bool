@@ -3,3 +3,17 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.container {
+  margin: 0 auto;
+}
+[class*="col-"] {
+  background-color: pink;
+  border: solid 1px #000;
+  height: 20vh;
+}
+
+p {
+  line-height: 20vh;
+  text-align: center;
+}
