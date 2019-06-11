@@ -17,6 +17,9 @@
   clear: both;
 }
 
+
+/* Float */
+
 [class*="col-"] {
   float: left;
 }
@@ -24,11 +27,6 @@
 [class*="col-offset-"] {
   float: left;
 }
-
-
-/* Caratteristiche riga50% generali */
-
-
 
 
 /* Regole delle colonne */
